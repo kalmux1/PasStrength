@@ -1,7 +1,7 @@
 # PasStrength: Elevate Your Password Security with Advanced Strength and Leak Detection
 
 <p align="center">
-  <img src="https://github.com/kalmux1/Passify/blob/main/Assets/Tool%20Image.png" alt="Passify GUI">
+  <img src="https://github.com/kalmux1/PasStrength/blob/main/Assets/PasStrength.png" alt="Passify GUI">
 </p>
 
 ## Overview
