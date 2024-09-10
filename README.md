@@ -1,4 +1,4 @@
-# Passify: Elevate Your Password Security with Advanced Strength and Leak Detection
+# PasStrength: Elevate Your Password Security with Advanced Strength and Leak Detection
 
 <p align="center">
   <img src="https://github.com/kalmux1/Passify/blob/main/Assets/Tool%20Image.png" alt="Passify GUI">
@@ -6,7 +6,7 @@
 
 ## Overview
 
-Passify is a Python-based tool designed to elevate your password security. It evaluates passwords based on length, character variety, and checks them against known leaked passwords. With a user-friendly graphical interface built using Tkinter, Passify offers an easy way to assess and improve your password strength.
+PasStrength is a Python-based tool designed to elevate your password security. It evaluates passwords based on length, character variety, and checks them against known leaked passwords. With a user-friendly graphical interface built using Tkinter, Passify offers an easy way to assess and improve your password strength.
 
 ## ✨ Features
 
@@ -26,17 +26,17 @@ Passify is a Python-based tool designed to elevate your password security. It ev
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/kalmux1/Passify.git
-    cd Passify
+    git clone https://github.com/kalmux1/PasStrength.git
+    cd PasStrength
     ```
 
 2. **Run the application**:
     ```bash
-    python passify.py
+    python passtrength.py
     ```
 
 3. **Ensure you have the password list file**:
-   - The tool uses a file named `Passwords.txt` for checking against known leaks. Ensure this file is in the same directory as `passify.py` or adjust the `path` variable in the script accordingly.
+   - The tool uses a file named `Passwords.txt` for checking against known leaks. Ensure this file is in the same directory as `passtrength.py` or adjust the `path` variable in the script accordingly.
 
 ## 🛠️ How It Works
 
