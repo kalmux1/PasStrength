@@ -4,7 +4,7 @@
 import re
 from tkinter import *
 
-path = r"10-million-password-list-top-1000000.txt" # If any error occurs, Change This Path According To Your File System.
+path = r"Passwords.txt" # If any error occurs, Change This Path According To Your File System.
 
 def passleak(password):
     global leakscore
